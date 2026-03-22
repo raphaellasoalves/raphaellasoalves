@@ -31,7 +31,7 @@ I work at the intersection of data engineering and analytics strategy, helping o
 
 | Repository | Description | Stack |
 |---|---|---|
-| 🔜 Coming soon | Public data crawlers — energy sector (ANP) | Python, Pandas |
+| [anp-data-crawlers](https://github.com/raphaellasoalves/anp-data-crawlers) | Public data crawlers — ANP energy sector (Power BI extraction) | Python, Selenium, Pandas |
 
 ---
 
